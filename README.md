@@ -28,6 +28,4 @@ An object oriented approach towards developing an airline reservation system.
 </ul>
 
 <br></br>
-<h5>Note: <i>This project was a part of my coursework at university. It does not represent an absolute correct usage of object oriented 
-methodologies. It is subjected to futher optimizations. Any feedback towards optimizing is welcome as it would help me strengthen my 
-object orientation skills.</i></h5>
+<h5>Note: <i>This project was a part of my coursework at university.</i></h5>
